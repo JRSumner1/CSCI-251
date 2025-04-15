@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2kmIqz4YUn8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jrsum\\OneDrive - rit.edu\\School\\Year 5\\Semester 1\\CSCI 251\\Project 3\\LFSR\\LFSR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jrsum\\.nuget\\packages\\skiasharp\\2.88.9\\skiasharp.2.88.9.nupkg.sha512",
+    "C:\\Users\\jrsum\\.nuget\\packages\\skiasharp.nativeassets.linux\\2.88.9\\skiasharp.nativeassets.linux.2.88.9.nupkg.sha512",
+    "C:\\Users\\jrsum\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.9\\skiasharp.nativeassets.macos.2.88.9.nupkg.sha512",
+    "C:\\Users\\jrsum\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.9\\skiasharp.nativeassets.win32.2.88.9.nupkg.sha512"
+  ],
+  "logs": []
+}
